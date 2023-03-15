@@ -3,8 +3,8 @@
 ### sub title
 
 # 나의 소개
-안녕하세요. 스폰지밥입니다.
-<img src = 'jk.jpg' width="300" height="400">;
+안녕하세요. 스폰지밥입니다. <br>
+<img src = 'jk.jpg' width="300" height="400">
 
 # 나의 동아리
 
